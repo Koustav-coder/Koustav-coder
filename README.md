@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm KOUSTAV GHOSH</h1>
-## &nbsp; &nbsp;<img src="https://media.giphy.com/media/1oBwBVLGoLteCP2kyD/giphy.gif" width="30"> **About Me**   
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 <h3 align="center">An Aspiring Full Stack Developer, Data Engineer, Data Scientist,Passionate and Determinant Researcher. Adaptivity is my key-strength in this Technological World.
 I always like to build strong concept on any topic.</h3>
 
