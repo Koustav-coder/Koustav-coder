@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm KOUSTAV GHOSH</h1>
+## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 <h3 align="center">Software Engineer || Full Stack Developer ||</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koustav-coder&label=Profile%20views&color=0e75b6&style=flat" alt="koustav-coder" /> </p>
