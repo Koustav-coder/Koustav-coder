@@ -2,7 +2,8 @@
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/1oBwBVLGoLteCP2kyD/giphy.gif" width="30"> **About Me**   
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
-<h3 align="center">Software Engineer || Full Stack Developer ||</h3>
+<h3 align="center">An Aspiring Full Stack Developer, Data Engineer, Data Scientist,Passionate and Determinant Researcher. Adaptivity is my key-strength in this Technological World.
+I always like to build strong concept on any topic.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koustav-coder&label=Profile%20views&color=0e75b6&style=flat" alt="koustav-coder" /> </p>
 
