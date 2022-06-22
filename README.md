@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KOUSTAV GHOSH</h1>
-## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
+## &nbsp; &nbsp;<img src="https://media.giphy.com/media/1oBwBVLGoLteCP2kyD/giphy.gif" width="30"> **About Me**   
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 <h3 align="center">Software Engineer || Full Stack Developer ||</h3>
@@ -32,5 +32,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koustav-coder&show_icons=true&locale=en&layout=compact" alt="koustav-coder" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koustav-coder&show_icons=true&locale=en" alt="koustav-coder" /></p>
+## 💻 My contribution Graph
+  
+   ![](https://activity-graph.herokuapp.com/graph?username=Koustav-coder&theme=dracula&hide_border=true&area=true)
+ 
+   <br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koustav-coder&" alt="koustav-coder" /></p>
