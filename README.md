@@ -6,15 +6,15 @@ I always like to build strong concept on any topic.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koustav-coder" alt="koustav-coder" /></a> </p>
 
-- 🔭 I’m currently working on **MERN, JAVA, Azure, ETL**
+- 🔭 I’m currently working on : **MERN, JAVA, Azure, ETL**
 
-- 🌱 I’m currently learning **Kafka, Flink, Couchbase, Kubernetes, Docker**
+- 🌱 I’m currently learning : **Kafka, Flink, Couchbase, Kubernetes, Docker**
 
 - 💬 Ask me about **React.js, Next.js, Core Java, Data Structure and Algorithm**
 
-- 📫 How to reach me **ghoshkoustav18@gmail.com**
+- 📫 How to reach me : **ghoshkoustav18@gmail.com**
 
-- ⚡ Fun fact **SHIFT the CTRL to me, I will ALT the world.**
+- ⚡ Fun fact : **SHIFT the CTRL to me, I will ALT the world.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
