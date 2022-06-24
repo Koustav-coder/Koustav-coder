@@ -18,7 +18,7 @@ I always like to build strong concept on any topic.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/koustav-ghosh-69616b181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/koustav-ghosh-69616b181/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/koustav-ghosh-69616b181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/koustav-ghosh-69616b181/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/koustav_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/koustav_1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://www.hackerrank.com/ghoshkoustav18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.hackerrank.com/ghoshkoustav18" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/koustavghosh/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/koustavghosh/practice" height="30" width="40" /></a>
