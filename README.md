@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KOUSTAV GHOSH</h1>
-<h3 align="center">An Aspiring Full Stack Developer, Data Engineer, Data Scientist,Passionate and Determinant Researcher. Adaptivity is my key-strength in this Technological World.
+<h3 align="center">Full Stack Web and Android Application Developer, Data Engineer. Adaptivity is my key-strength in this Technological World.
 I always like to build strong concept on any topic.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koustav-coder&label=Profile%20views&color=0e75b6&style=flat" alt="koustav-coder" /> </p>
