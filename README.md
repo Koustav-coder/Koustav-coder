@@ -10,7 +10,7 @@ I always like to build strong concept on any topic.</h3>
 
 - 🌱 I’m currently learning : **Kafka, Flink, Couchbase, Kubernetes, Docker**
 
-- 💬 Ask me about **React.js, Next.js, Core Java, Spring Boot, Data Structure and Algorithm**
+- 💬 Ask me about **Core Java, Spring Boot, Microservices, Design Patterns, LLD, HLD Data Structure and AlgorithmReact.js, Next.js **
 
 - 📫 How to reach me : **ghoshkoustav18@gmail.com**
 
